@@ -1,8 +1,9 @@
 {
   "name": "@ov-creative/test-npm-first-time",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a test package to trial npm",
-  "main": "index.js",
+  "main": "./index.js",
+  "jsdelivr":"./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
