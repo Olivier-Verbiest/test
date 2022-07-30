@@ -1,0 +1,23 @@
+{
+  "name": "@ov-creative/test-npm-first-time",
+  "version": "1.0.0",
+  "description": "This is a test package to trial npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivier-Verbiest/test.git"
+  },
+  "keywords": [
+    "test",
+    "webflow"
+  ],
+  "author": "Olivier Verbiest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olivier-Verbiest/test/issues"
+  },
+  "homepage": "https://github.com/Olivier-Verbiest/test#readme"
+}
