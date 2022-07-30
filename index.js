@@ -4,5 +4,6 @@ function testfunction(){
 };
 
 //this is just to see if it works
+//this was added in v1.0.4
 
 
