@@ -1,2 +1,6 @@
-console.log("test");
-console.log("test2");
+function testfunction{
+    console.log("test");
+    console.log("test2");
+}
+
+
